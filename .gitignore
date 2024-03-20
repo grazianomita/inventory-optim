@@ -153,7 +153,7 @@ dmypy.json
 cython_debug/
 
 data/*
-!data/ref_data_example.csv
-!data/constraint_example.json
+!data/sample_constraints.csv
+!data/sample_data.csv
 
 .idea
