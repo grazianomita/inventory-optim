@@ -1,0 +1,1 @@
+{"constraints": [{"lb": 1342, "ub": 1342, "features": [{"name": "store", "values": [1]}]}, {"lb": 2775, "ub": 2775, "features": [{"name": "store", "values": [2]}]}, {"lb": 42304, "ub": 42304, "features": []}]}
